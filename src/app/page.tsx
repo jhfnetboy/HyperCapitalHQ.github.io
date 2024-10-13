@@ -41,18 +41,18 @@ export default function HyperCapital() {
             <h3 className="text-3xl font-bold mb-8 text-center">About HyperCapital</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
               <div>
-                <p className="text-lg mb-4">
+                <p className="text-2xl mb-4">
                   HyperCapital is a social experiment based on Blockchain technology. We aim to help all people who are 
                   weakened under the power of Capital, while recognizing that we are all Capitalists too.
                 </p>
-                <p className="text-lg">
+                <p className="text-2xl">
                   Our innovative approach creates new economic relations that extend beyond traditional Capitalism, 
                   offering new opportunities and empowerment to individuals in the digital age.
                 </p>
               </div>
               <div className="flex justify-center">
                 <img 
-                  src="/placeholder.svg?height=300&width=400" 
+                  src="/hypercapital.jpg" 
                   alt="HyperCapital Concept" 
                   className="rounded-lg shadow-2xl"
                 />
