@@ -3,6 +3,11 @@ logs
 *.log
 npm-debug.log*
 
+# jhf add
+materials
+materials/*
+materials/*.*
+
 # Runtime data
 pids
 *.pid

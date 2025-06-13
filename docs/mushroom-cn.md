@@ -1,34 +1,30 @@
 ---
-title: 蘑菇网络创业项目介绍
-tags: mushroom, mycelium, protocol, network
-description: mushroomstartup slides
+title: 蘑菇创业项目介绍
+tags: presentation
 slideOptions:
   theme: white
 ---
 
 <!-- slide -->
 
-# 蘑菇网络/Mycelium Protocol Network
-构建创新协作关系
-Create Innovative collaborative relationships
-Jason Jiao
-
+# 蘑菇创业项目
+## 让Web3更简单
 
 <!-- slide -->
 
-## 问题
+## 问题陈述
 
-* 现有市场痛点：获客成本高
-* 目标用户面临的具体问题：建立信任成本太高
-* 市场需求分析：新型关系降低信任成本
+* 现有市场痛点
+* 目标用户面临的具体问题
+* 市场需求分析
 
 <!-- slide -->
 
 ## 解决方案
 
-* 产品/服务介绍：蘑菇协议网络
-* 核心创新点：新型关系降低信任成本
-* 技术及商业模式亮点：区块链技术，AI 大模型
+* 产品/服务介绍
+* 核心创新点
+* 技术及商业模式亮点
 
 <!-- slide -->
 
@@ -52,7 +48,7 @@ Jason Jiao
 
 * 产品路线图
 * 市场推广计划
-* 未来 3-5 年发展规划
+* 未来3-5年发展规划
 
 <!-- slide -->
 
